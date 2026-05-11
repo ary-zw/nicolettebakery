@@ -1,4 +1,4 @@
-# nicolettebakery
+index.html
 Nicolette's Eatery &amp; Bakery website
 <!DOCTYPE html>
 <html lang="en">
